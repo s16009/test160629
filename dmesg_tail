@@ -1,0 +1,10 @@
+[   76.634008] usb 1-2: New USB device found, idVendor=093a, idProduct=2510
+[   76.634076] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   76.634080] usb 1-2: Product: USB Optical Mouse
+[   76.634083] usb 1-2: Manufacturer: PixArt
+[   76.634323] usb 1-2: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[   76.981602] usbcore: registered new interface driver usbhid
+[   76.981609] usbhid: USB HID core driver
+[   77.000817] input: PixArt USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:093A:2510.0002/input/input12
+[   77.001622] hid-generic 0003:093A:2510.0002: input,hidraw1: USB HID v1.11 Mouse [PixArt USB Optical Mouse] on usb-0000:00:14.0-2/input0
+[ 2019.354578] perf interrupt took too long (2584 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
